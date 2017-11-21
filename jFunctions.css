@@ -1,0 +1,15 @@
+#show p{
+    display: none;
+}
+
+#slideDown p{
+    display: none;
+}
+
+#fadeIn p{
+    display: none;
+}
+
+.red{
+    color: red;
+}
